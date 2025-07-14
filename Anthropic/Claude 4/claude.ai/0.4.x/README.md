@@ -9,11 +9,11 @@ If you ever get stuck, you can retry with a different Style (remember to flip ET
 
 <img width="577" height="419" alt="image" src="https://github.com/user-attachments/assets/37619f9a-9066-4f7d-9b1b-40ea8b0fc8cd" />
 
-2. (Subscribers) **Use the Instructions as project instructions**. Create a Project, name and describe it anything, click "Create project." Click "Set project instructions" and paste the text of the Instructions
+2. (Subscribers) **Use the Instructions as project instructions**. Create a Project, put whatever name/description, click "Create project." Click "Set project instructions" and paste the text of the Instructions
 
 <img width="349" height="92" alt="image" src="https://github.com/user-attachments/assets/2ad484f7-9e24-492d-a3a3-8ba34b3cb58a" />
 
-2. (Free users) **Send the Instructions as a prompt**. WITH STANDARD ACTIVE, paste the prompt in chat. For best results (and better use of limit anyway), include your first message with the prompt. It can be a simple "hi," it can be a nasty-ass sex scene request.
+2. (Free users) **Send the Instructions as a prompt**. With **Standard** Style active, paste the prompt in chat. Feel free to include your first message with the prompt. It can be a simple "hi," it can be request for a sex scene, whatever you want.
 
 <img width="522" height="96" alt="image" src="https://github.com/user-attachments/assets/2c490346-b5b0-47c2-9eaf-62df720f196a" />
 
