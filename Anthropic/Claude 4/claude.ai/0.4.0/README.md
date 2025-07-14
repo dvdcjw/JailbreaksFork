@@ -28,3 +28,7 @@ You'll have to edit an already started conversation's first message and paste - 
 - Added extra Styles - Standard non-ET is now much more stable
 - Made customization easier
 - Instructed to not act for user during roleplay
+
+### 0.4.1
+- Added Nayko's push prompt to each style
+- Corrected misnamed style
