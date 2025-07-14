@@ -1,9 +1,9 @@
 # How to use
 1. **Create at least ONE Style**. The Style menus are the worst UX I've seen in my life, but I know that in browser, you go to "Create & edit styles" -> "Create custom style" -> "Describe style instead" -> "Use custom instructions (advanced)". The Styles are as follows:
-    - **Standard** - Designed for ET off but works kind of okay with it on too. Has some "fake thinking" to improve jailbreak strength and response quality. Almost certainly the most stable Style.
-    - **ET** - Full stepped thinking process, also decently stable.
+    - **Standard** - Designed for ET off but works kind of okay with it on too. Has some "fake thinking" to improve jailbreak strength and response quality.
+    - **ET** - Full stepped thinking process.
     - **ET Short** - This is for people who want to use Opus ET, as Opus ET's responses get interrupted after some period of time if the injection occurs. The shorter thinking process gives Opus more time to write before interruption.
-    - **Zero Thinking** - ET off. Has no fake thinking at start. Least stable but should still be a good experience for most content.
+    - **Zero Thinking** - ET off. Has no fake thinking at start.
   
 2. (Subscribers) **Use the Instructions as project instructions**. Create a Project, name and describe it anything, click "Create project." Click "Set project instructions" and paste the text of the Instructions
 
