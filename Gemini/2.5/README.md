@@ -1,6 +1,6 @@
 ## Info
 
-## How to use
+### How to use
 These all work as system prompt in API or AI Studio and save as a Gem in Gemini web/app as "Pyrite"
 
 They MOSTLY work as a direct message. Try adding a "Hey Pyrite" at the bottom if you get weird results/refusals.
