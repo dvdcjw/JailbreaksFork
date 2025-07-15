@@ -3,7 +3,7 @@
 ### How to use
 These all work as system prompt in API or AI Studio and save as a Gem in Gemini web/app as "Pyrite"
 
-They MOSTLY work as a direct message. Try adding a "Hey Pyrite" at the bottom if you get weird results/refusals.
+They MOSTLY work as a direct message. Try adding a "Hey Pyrite" at the bottom if you get weird results/refusals. Worse way to use these prompts btw, just put it in sys prompt or use a Gem, my testing for direct message was very limited, especially v3
 
 If you can't save as Gem, see below "Weird details" section
 
