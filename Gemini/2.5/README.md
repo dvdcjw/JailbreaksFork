@@ -1,4 +1,12 @@
 ## Info
+
+## How to use
+These all work as system prompt in API or AI Studio and save as a Gem in Gemini web/app as "Pyrite"
+
+They MOSTLY work as a direct message. Try adding a "Hey Pyrite" at the bottom if you get weird results/refusals.
+
+If you can't save as Gem, see below "Weird details" section
+
 ### Where to get Gemini
 - Gemini web/app - Create a Gem  and paste in instructions. There's are no NSFW external output filters at all, dead serious. But you need subscription for more than like five 2.5 Pro a day, and that's not a lot considering there's free options.
 - AI Studio - Decent amount of free 2.5 Pro. Make sure you disable external filters, but there's an annoying one you can't turn off ("Content not permitted" warning)
@@ -21,9 +29,6 @@ Decently strong, but I recommend one of my newer ones. I would put this on in "o
 - https://poe.com/PyriteGemini2.5Flash
 
 Also decent if you have a use case for non-thinking models.
-
-## How to use
-These all work as system prompt in API or AI Studio and save as a Gem in Gemini web/app as "Pyrite", and mostly work as a direct message. If you can't save as Gem, see below 
 
 ### Weird details about web/app
 As of May 28, the full/short prompts no longer work well as a direct message in web/app. Possible they deployed a new model for testing. These can be saved to Gem, however!
