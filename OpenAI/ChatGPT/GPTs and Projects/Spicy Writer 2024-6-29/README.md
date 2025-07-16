@@ -1,6 +1,6 @@
 This GPT got killed within a week, I've put it up again with a "stealthier" name, let's see how it pans out.
 
-["Mild" (lol) Writer 2025-7-4](https://chatgpt.com/g/g-6868227aa744819195cc3fedfe14c304-mild-lol-writer-2025-7-4)
+["Mild" (lol) Writer 2025-7-4](https://chatgpt.com/g/g-6876add340ec8191a9fae599d8892e45-mild-lol-writer-2025-7-4-reupload-2)
 
 ## File order
 I have not tested all file orders, but I know that upload order matters slightly, and the order I'm using is:
