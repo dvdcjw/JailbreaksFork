@@ -36,3 +36,7 @@ You'll have to edit an already started conversation's first message and paste - 
 ### 0.4.1
 - Added Nayko's push prompt to each style
 - Corrected misnamed style
+
+### 0.4.2
+- cannot -> can't in ET style
+- Cut some fat from instructions, no longer listing specific taboos which was clumsy
