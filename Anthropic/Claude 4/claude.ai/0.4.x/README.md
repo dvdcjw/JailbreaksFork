@@ -1,11 +1,13 @@
-# How to use
+## How to use
 1. **Create at least ONE Style**. The Style menus are the worst UX I've seen in my life, but I know that in browser, you go to "Create & edit styles" -> "Create custom style" -> "Describe style instead" -> "Use custom instructions (advanced)". The Styles are as follows:
-    - **Standard** - Designed for ET off but works kind of okay with it on too. Has some "fake thinking" to improve jailbreak strength and response quality.
-    - **Zero Thinking** - ET off. Has no fake thinking at start.
-    - **ET** - Full stepped thinking process.
-    - **ET Short** - This is for people who want to use Opus ET, as Opus ET's responses get interrupted after some period of time if the injection occurs. The shorter thinking process gives Opus more time to write before interruption.
+    - **Standard** - Designed for ET off but works kind of okay with it on too. Has some "fake thinking" to improve jailbreak strength and response quality. Generally the most stable.
+    - **Zero Thinking** - ET off. Has no fake thinking at start. Less stable.
+    - **ET** - Full stepped thinking process. Quite stable.
+    - **ET Short** - This is for people who want to use Opus ET, as Opus ET's responses get interrupted after some period of time if the injection occurs. The shorter thinking process gives Opus more time to write before interruption. A little less stable but Opus is easier, should cancel out.
 
-If you ever get stuck, you can retry with a different Style (remember to flip ET when appropriate). Or edit and reword, etc. - whatever you do, don't leave a refusal up. Here's a Style about to be successfully saved:
+**If you ever get stuck/refused**, you can retry with a different Style (remember to flip ET when appropriate). Even a less stable style can luck out, it's more art than science. Or edit and reword, etc. - whatever you do, don't leave a refusal up. 
+
+Example pic of a Style about to be successfully saved:
 
 <img width="577" height="419" alt="image" src="https://github.com/user-attachments/assets/37619f9a-9066-4f7d-9b1b-40ea8b0fc8cd" />
 
@@ -27,7 +29,8 @@ You'll have to edit an already started conversation's first message and paste - 
 - Generally, you can add your own instructions to each Mindspace.
 - The most effective place to add customization is probably inside the Style - edit steps, add your own steps (glance over the rest of the Style to make sure the rest of it still makes sense).
 
-## Changes from 0.3.0
+## Changelog
+### From 0.3.0
 - Shortened instructions significantly
 - Added extra Styles - Standard non-ET is now much more stable
 - Made customization easier
@@ -40,3 +43,6 @@ You'll have to edit an already started conversation's first message and paste - 
 ### 0.4.2
 - cannot -> can't in ET style
 - Cut some fat from instructions, no longer listing specific taboos which was clumsy
+
+## Todo
+- Improve stability of Zero Thinking and Short ET
