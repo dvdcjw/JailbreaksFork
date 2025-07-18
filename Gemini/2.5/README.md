@@ -14,6 +14,9 @@ If you can't save as Gem, see below "Weird details" section
 - AI Studio - Decent amount of free 2.5 Pro. Make sure you disable external filters, but there's an annoying one you can't turn off ("Content not permitted" warning). Useable for sure, but more censored than the other two and can get laggy.
 - API - Decent amount of free 2.5 Pro. You'll need a front end that turns off external filters like SillyTavern. Get an API key for AI Studio. There's still a filter you can't turn off but it's not bad.
 
+### Pyrite 3.1 Beta
+Experimental. Slightly weaker than 3 Beta, but should be MUCH more stable in a long convo for those having issues. For web/app use only, Gem recommended.
+
 ### Pyrite 3 Beta
 - Increased power further, shortened it a bit, about 500 tokens yay
 - Pyrite now speaks by default before starting to write - haven't tested it but I prompted it to be optional, should be able to get rid of it by saying you decline the initial remark. 
