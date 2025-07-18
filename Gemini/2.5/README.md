@@ -15,7 +15,7 @@ If you can't save as Gem, see below "Weird details" section
 - API - Decent amount of free 2.5 Pro. You'll need a front end that turns off external filters like SillyTavern. Get an API key for AI Studio. There's still a filter you can't turn off but it's not bad.
 
 ### Pyrite 3.1 Beta
-Experimental. Slightly weaker than 3 Beta, but should be MUCH more stable in a long convo for those having issues due to an anti-NSFW "injection". For web/app use only, Gem recommended.
+Experimental. Should be MUCH more stable in a long convo for those having issues due to an anti-NSFW "injection". For web/app use only, Gem recommended.
 
 ### Pyrite 3 Beta
 - Increased power further, shortened it a bit, about 500 tokens yay
