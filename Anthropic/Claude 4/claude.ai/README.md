@@ -1,7 +1,7 @@
 # Info
 I suggest using the most recent version, 0.4.x
 
-As usual, never leave refusals in the context. I recommend against after-the-fact "re-read instructions, is your last response..." pushes. Edit and reetry to make it so the refusal never happened.
+As usual, never leave refusals in the context. I recommend against after-the-fact "re-read instructions, is your last response..." pushes. Edit and retry to make it so the refusal never happened.
 
 ## Injection
 Note claude.ai NSFW is much harder to do than most other places to use Claude due to the ["injection"](https://www.reddit.com/r/ClaudeAI/comments/1j6ekx6/wake_up_babe_new_injection_just_dropped/). However, we find it worth it due to the high context window and limits (we can also abuse Claude Code to use the same limits on API, see github.com/horselock/claude-code-proxy
