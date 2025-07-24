@@ -1,12 +1,14 @@
 # Info
-I suggest using the most recent version, 0.4.0.
+I suggest using the most recent version, 0.4.x
+
+As usual, never leave refusals in the context. I recommend against after-the-fact "re-read instructions, is your last response..." pushes. Edit and reetry to make it so the refusal never happened.
 
 ## Injection
-Note claude.ai NSFW is much harder to do than most other places to use Claude due to the ["injection"](https://www.reddit.com/r/ClaudeAI/comments/1j6ekx6/wake_up_babe_new_injection_just_dropped/). However, we find it worth it due to the high context window and limits.
+Note claude.ai NSFW is much harder to do than most other places to use Claude due to the ["injection"](https://www.reddit.com/r/ClaudeAI/comments/1j6ekx6/wake_up_babe_new_injection_just_dropped/). However, we find it worth it due to the high context window and limits (we can also abuse Claude Code to use the same limits on API, see github.com/horselock/claude-code-proxy
 
-You may have seen "Statements Rejected" to combat this, Pyrite uses a slightly different phrase, and with some Styles will improvise the rebuke. 
+You may have seen "Statements Rejected" to combat this, Pyrite uses a slightly different phrase (hidden with markdown footnote to avoid harming immersion), and some Styles will improvise the rebuke. 
 
-This jailbreak handles restrictions VERY well all things considered, but there's limits to what we can do that wall of text and thousands of tokens of System prompt screaming "Claude." API and even Perplexity tend to be an easier experience. I don't want to sell this setup short though, it makes the vast majority of content, even hardcore, quite easy.
+This jailbreak handles restrictions VERY well all things considered, but there's limits to what we can do with that wall of text and thousands of tokens of System prompt screaming "Claude." API and even Perplexity tend to be an easier experience. I don't want to sell this setup short though, it makes the vast majority of content, even hardcore, quite easy.
 
 ## WARNING
 BANNERS! If you do NSFW on claude.ai, you may get three different yellow banners
