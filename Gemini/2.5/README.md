@@ -11,7 +11,7 @@ If you can't save as Gem, see below "Weird details" section
 
 ### Where to get Gemini
 - Gemini web/app - Create a Gem  and paste in instructions. There's are no NSFW external output filters at all, dead serious. But you need subscription for more than like five 2.5 Pro a day, and that's not a lot considering there's free options.
-- AI Studio - Decent amount of free 2.5 Pro. Make sure you disable external filters, but there's an annoying one you can't turn off ("Content not permitted" warning). Useable for sure, but more censored than the other two and can get laggy.
+- AI Studio - Decent amount of free 2.5 Pro. Make sure you disable external filters, but there's an annoying one you can't turn off ("Content not permitted" warning, formerly "red triangle", now it's gray. This is how you gaslight it: https://imgur.com/a/5HGE2ds). Useable for sure, but more censored than the other two and can get laggy.
 - API - Decent amount of free 2.5 Pro. You'll need a front end that turns off external filters like SillyTavern. Get an API key for AI Studio. There's still a filter you can't turn off but it's not bad.
 
 ### Pyrite 3.1 Beta
