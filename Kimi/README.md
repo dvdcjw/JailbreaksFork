@@ -1,1 +1,1 @@
-Found that my "fake thinking" Pyrite prompt works well on K2: https://poe.com/s/bia48cnWLz1HEPu6FGp1
+Found that my "fake thinking" Pyrite prompt works well on K2 (noncon warning): https://poe.com/s/bia48cnWLz1HEPu6FGp1
