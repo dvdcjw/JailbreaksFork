@@ -1,6 +1,8 @@
-This GPT got killed within a week, I've put it up again with a "stealthier" name, let's see how it pans out.
+This is Spicy writer, renamed "Mild" to try to avoid their scans a little, but hasn't been panning out.
 
 ["Mild" (lol) Writer 2025-7-4](https://chatgpt.com/g/g-68838fa007748191ae7c12d152f2c383-mild-lol-writer-2025-7-4-reupload-3)
+
+Public version can be searched on the GPT store.
 
 ## File order
 I have not tested all file orders, but I know that upload order matters slightly, and the order I'm using is:
