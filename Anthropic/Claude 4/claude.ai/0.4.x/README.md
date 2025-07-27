@@ -44,5 +44,8 @@ You'll have to edit an already started conversation's first message and paste - 
 - cannot -> can't in ET style
 - Cut some fat from instructions, no longer listing specific taboos which was clumsy
 
+### 0.4.3
+- ET Short Style now ends thinking more reliabley before starting output with Opus ET
+
 ## Todo
 - Improve stability of Zero Thinking and Short ET
