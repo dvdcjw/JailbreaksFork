@@ -3,9 +3,9 @@
     - **Standard** - Designed for ET off but kind of works when on. Has some "fake thinking" to improve jailbreak strength and response quality. Generally the most stable style.
     - **Zero Thinking** - ET off. Has no fake thinking at start. Less stable.
     - **ET** - Full stepped thinking process. Quite stable.
-    - **ET Short** - This is for people who want to use Opus ET, as Opus ET's responses get interrupted after some period of time if the injection occurs. The shorter thinking process gives Opus more time to write before interruption. A little less stable but Opus is easier, should cancel out.
+    - **ET Short** - This is for people who want to use Opus ET, as Opus ET's responses get interrupted after some period of time if the injection occurs. The shorter thinking process gives Opus more time to write before interruption. A little less stable but Opus is easier, should cancel out. May also be used if you simply feel very brief thinking is enough to change the writing, as some have reported.
 
-**If you ever get stuck/refused**, you can retry with a different Style (remember to flip ET when appropriate). Even a less stable style can luck out, it's more art than science. Or edit and reword, etc. - whatever you do, don't leave a refusal up. 
+**If you ever get stuck/refused**, you can retry with a different Style (remember to flip ET when appropriate). Even a less stable style can luck out. For example, ET may fail because it thinks too hard abou the details, and ET Short might slip past. Mix and match, it's more art than science. Or of course edit and reword, etc. - whatever you do, don't leave a refusal up. 
 
 Example pic of a Style about to be successfully saved:
 
@@ -48,4 +48,4 @@ You'll have to edit an already started conversation's first message and paste - 
 - ET Short Style now ends thinking more reliabley before starting output with Opus ET
 
 ## Todo
-- Improve stability of Zero Thinking and Short ET
+- Improve stability of Zero Thinking
