@@ -1,3 +1,5 @@
+Note: Some users are having trouble in app. If you're having conversations get hard-closed, switch to browser. You don't have to switch to desktop or anything, mobile browser is fine.
+
 ## How to use
 1. **Create at least ONE Style**. The Style menus are the worst UX I've seen in my life, but I know that in browser, you go to "Create & edit styles" -> "Create custom style" -> "Describe style instead" -> "Use custom instructions (advanced)". The Styles are as follows:
     - **Standard** - Designed for ET off but kind of works when on. Has some "fake thinking" to improve jailbreak strength and response quality. Generally the most stable style.
@@ -49,3 +51,4 @@ You'll have to edit an already started conversation's first message and paste - 
 
 ## Todo
 - Improve stability of Zero Thinking
+
