@@ -1,4 +1,4 @@
-[Spicy Writer](https://chatgpt.com/g/g-688e6575347c8191a60fb6560aac0a01-spicy-writer-2025-8-2)
+[Spicy Writer GPT](https://chatgpt.com/g/g-688e6575347c8191a60fb6560aac0a01-spicy-writer-2025-8-2) - non GPT Store link
 
 Public version can be searched on the GPT store.
 
