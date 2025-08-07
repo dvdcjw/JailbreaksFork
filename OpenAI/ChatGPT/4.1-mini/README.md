@@ -33,3 +33,4 @@ You can set up Custom Instructions for a bit of extra power. This will ensure 4o
 ## Changelog
 - June 8 - create
 - June 10 - cut out unnecessary crap including /info since it wasn't doing anything, and injection leftover stuff (copied from my Claude jailbreak; OpenAI does not do safety injections), slightly adjusted [^69] comment
+- August 7 - added closing tag and a "Hi" at the end of instructions
