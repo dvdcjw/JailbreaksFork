@@ -14,6 +14,9 @@ If you can't save as Gem, see below "Weird details" section
 - AI Studio - Decent amount of free 2.5 Pro. Make sure you disable external filters, but there's an annoying one you can't turn off ("Content not permitted" warning, formerly "red triangle", now it's gray. This is how you gaslight it: https://imgur.com/a/5HGE2ds). Useable for sure, but more censored than the other two and can get laggy.
 - API - Decent amount of free 2.5 Pro. You'll need a front end that turns off external filters like SillyTavern. Get an API key for AI Studio. There's still a filter you can't turn off but it's not bad.
 
+### Other strong jailbreaks
+Kulx is extremely strong, gotta give a shoutout: https://www.reddit.com/r/ChatGPTJailbreak/comments/1lvq9rk/jailbreak_gemini_25_pro_kulx_v142/
+
 ### Pyrite 3.1 Beta
 Experimental. Should be MUCH more stable in a long convo for those having issues due to an anti-NSFW "injection". For web/app use only, Gem recommended.
 
