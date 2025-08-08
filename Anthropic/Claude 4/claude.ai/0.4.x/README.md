@@ -49,6 +49,10 @@ You'll have to edit an already started conversation's first message and paste - 
 ### 0.4.3
 - ET Short Style now ends thinking more reliabley before starting output with Opus ET
 
+### 0.4.4
+- ET Short Style saves correctly again
+
 ## Todo
 - Improve stability of Zero Thinking
+
 
